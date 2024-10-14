@@ -1,0 +1,16 @@
+C:\Users\HL\Desktop\BlackJack Assistant\BlackJack Assistant\bin\Debug\net8.0-windows\BlackJack Assistant.exe
+C:\Users\HL\Desktop\BlackJack Assistant\BlackJack Assistant\bin\Debug\net8.0-windows\BlackJack Assistant.deps.json
+C:\Users\HL\Desktop\BlackJack Assistant\BlackJack Assistant\bin\Debug\net8.0-windows\BlackJack Assistant.runtimeconfig.json
+C:\Users\HL\Desktop\BlackJack Assistant\BlackJack Assistant\bin\Debug\net8.0-windows\BlackJack Assistant.dll
+C:\Users\HL\Desktop\BlackJack Assistant\BlackJack Assistant\bin\Debug\net8.0-windows\BlackJack Assistant.pdb
+C:\Users\HL\Desktop\BlackJack Assistant\BlackJack Assistant\obj\Debug\net8.0-windows\BlackJack_Assistant.Form1.resources
+C:\Users\HL\Desktop\BlackJack Assistant\BlackJack Assistant\obj\Debug\net8.0-windows\BlackJack Assistant.csproj.GenerateResource.cache
+C:\Users\HL\Desktop\BlackJack Assistant\BlackJack Assistant\obj\Debug\net8.0-windows\BlackJack Assistant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HL\Desktop\BlackJack Assistant\BlackJack Assistant\obj\Debug\net8.0-windows\BlackJack Assistant.AssemblyInfoInputs.cache
+C:\Users\HL\Desktop\BlackJack Assistant\BlackJack Assistant\obj\Debug\net8.0-windows\BlackJack Assistant.AssemblyInfo.cs
+C:\Users\HL\Desktop\BlackJack Assistant\BlackJack Assistant\obj\Debug\net8.0-windows\BlackJack Assistant.csproj.CoreCompileInputs.cache
+C:\Users\HL\Desktop\BlackJack Assistant\BlackJack Assistant\obj\Debug\net8.0-windows\BlackJack Assistant.dll
+C:\Users\HL\Desktop\BlackJack Assistant\BlackJack Assistant\obj\Debug\net8.0-windows\refint\BlackJack Assistant.dll
+C:\Users\HL\Desktop\BlackJack Assistant\BlackJack Assistant\obj\Debug\net8.0-windows\BlackJack Assistant.pdb
+C:\Users\HL\Desktop\BlackJack Assistant\BlackJack Assistant\obj\Debug\net8.0-windows\BlackJack Assistant.genruntimeconfig.cache
+C:\Users\HL\Desktop\BlackJack Assistant\BlackJack Assistant\obj\Debug\net8.0-windows\ref\BlackJack Assistant.dll
